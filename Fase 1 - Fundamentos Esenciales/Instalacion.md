@@ -6,10 +6,10 @@
 asegúrate de marcar la casilla "Add Python to PATH" durante la instalación. 
     - [Descarga Pyhton de la Microsoft Sotre](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=neutral&gl=MX&ocid=pdpshare)
 
-o desde la web
+O desde la web:
     - [Windows](https://www.python.org/downloads/windows/)
     - [macOS](https://www.python.org/downloads/macos/)
-    
+
 - **Visual Studio Code:** Instala la extensión oficial de "Python" creada por Microsoft. 
 
 En Windows abre tu terminal y escribe: *python --version*
