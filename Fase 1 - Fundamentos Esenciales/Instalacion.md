@@ -1,0 +1,25 @@
+**Objetivo:** Dominar la sintaxis básica, la lógica de programación y cómo Python maneja la información en memoria.
+
+## Instalar Pyhton
+
+- **Python:** Descarga siempre la última versión estable desde la página oficial. En Windows,
+asegúrate de marcar la casilla "Add Python to PATH" durante la instalación. 
+    - [Descarga Pyhton de la Microsoft Sotre](https://apps.microsoft.com/detail/9PNRBTZXMB4Z?hl=neutral&gl=MX&ocid=pdpshare)
+o desde la web:
+    - [Windows](https://www.python.org/downloads/windows/)
+    - [macOS](https://www.python.org/downloads/macos/)
+- **Visual Studio Code:** Instala la extensión oficial de "Python" creada por Microsoft. 
+
+En Windows abre tu terminal y escribe: *python --version*
+Si te arroja tu versión es que quedó perfecto.
+En macOS es el lo mismo solo que 
+deberás de hacer un paso extra:
+1. *Cmd + Shift + P* 
+2. Escribe *Python: Select Interpreter* y selecciónalo. Elige de la lista la versión de Python que descargaste.
+
+> Por ahora solo trabajaremos en VS Code, en un futuro usaremos más la terminal
+
+# Primer "Hello World"
+1. En VS presiona "new file", nombrala algo así como: primerHolaMundo.py
+2. Tu primer línea de código será: `print("Hello World")` 
+Al ejecutar esa línea de código se abrirá la terminal en donde encontrarás tu mensaje.
