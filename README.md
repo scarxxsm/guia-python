@@ -19,3 +19,5 @@ indicaciones en inglés.
 * Fase 5: Python Avanzado  
 * Fase 6: El Entorno Profesional y Buenas Prácticas  
 * Fase 7: Conexión con el Mundo Real (Aplicaciones Prácticas)  
+
+### Contacto personal para cualquier duda: [Instagram](https://www.instagram.com/oscaralexis_sm?igsh=MWhwdnl3c2xpb2JsdQ==)

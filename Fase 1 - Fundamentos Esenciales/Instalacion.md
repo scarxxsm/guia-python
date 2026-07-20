@@ -25,3 +25,5 @@ deberás de hacer un paso extra:
 1. En VS presiona "new file", nombrala algo así como: primerHolaMundo.py
 2. Tu primer línea de código será: `print("Hello World")` 
 Al ejecutar esa línea de código se abrirá la terminal en donde encontrarás tu mensaje.
+
+### Contacto personal para cualquier duda: [Instagram](https://www.instagram.com/oscaralexis_sm?igsh=MWhwdnl3c2xpb2JsdQ==)
