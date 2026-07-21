@@ -24,7 +24,7 @@ indicaciones en inglés.
 
 - Cada fase contará con su propia carpeta, ahí estarán documentos de teoría ordenados para su mejor comprensión.
 - Estás carpetas contarán con ejercicios básicos para que practiques y estes seguro de haber entendido el tema.
-- Al final de cada fase encontrarás un proyecto final (la dificultad varia dependiendo la fase en la que estes)
+- Al final de cada fase encontrarás un proyecto final (la dificultad varia dependiendo la fase en la que estes).
 Te invito a usar **Github** para subir tu solución, si no estás seguro de que sea la solución correcta, 
 puedes checar la solución dada.
 
