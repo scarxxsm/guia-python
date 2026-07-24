@@ -10,8 +10,7 @@ indicaciones en inglés.
 
 ---
 
-## Temario:
-* Fase 0: Introducción al lenguaje y repositorio de herramientas de aprendizaje y práctica  
+## Temario: 
 * Fase 1: Fundamentos Esenciales  
 * Fase 2: Estructuras de Datos y Manipulación de Datos  
 * Fase 3: Modularidad, Funciones y Control de Errores  
