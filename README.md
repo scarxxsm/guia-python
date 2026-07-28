@@ -2,6 +2,7 @@
 Una guía práctica y desde cero de los fundamentos de Python, totalmente en español.  
 
 Para que no pierdas el repositorio, no te olvides de marcarlo con una **estrella**.
+
 ---
 
 ## ¿Por qué Python y para quién es esto?
