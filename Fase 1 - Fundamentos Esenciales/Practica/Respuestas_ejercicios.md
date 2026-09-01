@@ -17,7 +17,6 @@ estatura = float(input("Ingresa tu estatura en metros: "))
 print(nombre)
 print(edad)
 print(estatura)
-
 ```
 
 </details>
@@ -36,9 +35,26 @@ operacion = input("Ingresa operación (+, -): ")
 
 if operacion == "+":
     print(num_1 + num_2)
-if operacion == "-":
+elif operacion == "-":
     print(num_1 - num_2)
+```
 
+</details>
+
+---
+
+### 3.0 - Aprobado/Reprobado
+
+<details>
+<summary><b>✅ Respsuesta:</b></summary>
+
+```python
+calificacion = float(input("Ingresa tu calificación: "))
+
+if calificacion >= 7:
+    print("Aprobado")
+else:
+    print("Reprobado")
 ```
 
 </details>
