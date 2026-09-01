@@ -89,3 +89,19 @@ match dia:
 ```
 
 </details>
+
+---
+
+### 5.0 - Tabla de multiplicar
+
+<details>
+<summary><b>✅ Respsuesta:</b></summary>
+
+```python
+numero = int(input("Ingresa un número: "))
+
+for i in range(1,11):
+    print(i * numero)
+```
+
+</details>
