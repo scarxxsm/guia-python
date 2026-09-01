@@ -25,6 +25,8 @@ Al finalizar debes de mostrar la información en consola.
 
 </details>
 
+---
+
 ### 2.0 - Calculadora básica
 
 Crea un programa que solicite:
@@ -47,6 +49,8 @@ Al finalizar debes de mostrar el resultado de la operación con los dos números
 
 </details>
 
+---
+
 ### 3.0 - Aprobado/Reprobado
 
 Crea un programa que solicite:
@@ -66,6 +70,7 @@ Al finalizar debes de mostrar si el estudiante es aprobado' o 'reprobado'.
 
 </details>
 
+---
 
 ### 4.0 - Días de la semana
 
@@ -84,4 +89,7 @@ Al finalizar debes de mostrar el día que el usuario solicite.
 - Para mostrar información en la consola usamos `print()`.
 
 </details>
+
+---
+
 
