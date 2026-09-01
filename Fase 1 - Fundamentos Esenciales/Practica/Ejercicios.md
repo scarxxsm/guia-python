@@ -46,3 +46,22 @@ Al finalizar debes de mostrar el resultado de la operación con los dos números
 - Para mostrar información en la consola usamos `print()`.
 
 </details>
+
+### 3.0 - Aprobado/Reprobado
+
+Crea un programa que solicite:
+- Calificación
+
+El estudiante aprueba si la calificación es mayor o igual a 7.
+Al finalizar debes de mostrar si el estudiante es aprobado' o 'reprobado'.
+
+
+<details>
+<summary><b>💡 Pistas:</b></summary>
+
+- Para pedir al usuario información usamos `input()`, lo vimos en la clase "1.0_Introducción".
+- Necesitas verificar si la calificación es '>=n', por lo que necesitas recordarlo en "1.2_Variables_Operadores".
+- Usando un condicional puedes devolver un 'Aprobado' y un 'Reprobado'. Repasalo en: "1.3_Condicionales".
+- Para mostrar información en la consola usamos `print()`.
+
+</details>
