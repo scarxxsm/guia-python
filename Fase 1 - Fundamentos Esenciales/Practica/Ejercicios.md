@@ -65,3 +65,23 @@ Al finalizar debes de mostrar si el estudiante es aprobado' o 'reprobado'.
 - Para mostrar información en la consola usamos `print()`.
 
 </details>
+
+
+### 4.0 - Días de la semana
+
+Crea un programa que solicite:
+- Un número del uno al siete
+
+Debes de usar `match-case` para asociar el número con el día de la semana.
+Al finalizar debes de mostrar el día que el usuario solicite.
+
+
+<details>
+<summary><b>💡 Pistas:</b></summary>
+
+- Para pedir al usuario información usamos `input()`, lo vimos en la clase "1.0_Introducción".
+- Necesitas usar `match-case`. Repasalo en: "1.3_Condicionales".
+- Para mostrar información en la consola usamos `print()`.
+
+</details>
+
