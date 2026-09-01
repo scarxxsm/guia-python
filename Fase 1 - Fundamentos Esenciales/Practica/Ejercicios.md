@@ -5,7 +5,7 @@ Intenta evitar el uso de IA, cualquier duda: [Instagram](https://www.instagram.c
 
 ---
 
-**1.0 - Perfil de usuario**
+### 1.0 - Perfil de usuario
 
 Crea un programa que solicite:
 - El nombre del usuario
@@ -13,7 +13,7 @@ Crea un programa que solicite:
 - Su estatura en 'm'
 
 
-Al finalizar debes de mostrar la información en consola
+Al finalizar debes de mostrar la información en consola.
 
 
 <details>
@@ -21,6 +21,28 @@ Al finalizar debes de mostrar la información en consola
 
 - Para pedir al usuario información usamos `input()`, lo vimos en la clase "1.0_Introducción".
 - Cada tipo de dato se guarda diferente dependiendo si es `int`, `float`, `string`.
-- Para mostrar información en la consola usamos `print()`
+- Para mostrar información en la consola usamos `print()`.
+
+</details>
+
+### 2.0 - Calculadora básica
+
+Crea un programa que solicite:
+- Un primer número
+- Un segundo número
+- La operación deseada (+, -)
+
+
+Al finalizar debes de mostrar el resultado de la operación con los dos números.
+
+
+<details>
+<summary><b>💡 Pistas:</b></summary>
+
+- Para pedir al usuario información usamos `input()`, lo vimos en la clase "1.0_Introducción".
+- Lo operadores aritmeticos los vimos en "1.2_Variables_Operadores".
+- El tipo de dato es númerico.
+- Necesitas verificar si el operador es igual a '+' o '-', por lo que deberás checar "1.3_Condicionales".
+- Para mostrar información en la consola usamos `print()`.
 
 </details>
