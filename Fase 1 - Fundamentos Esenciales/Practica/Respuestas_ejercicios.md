@@ -21,3 +21,24 @@ print(estatura)
 ```
 
 </details>
+
+---
+
+### 2.0 - Calculadora básica
+
+<details>
+<summary><b>✅ Respsuesta:</b></summary>
+
+```python
+num_1 = int(input("Ingresa un primer número: "))
+num_2 = int(input("Ingresa un segundo número: "))
+operacion = input("Ingresa operación (+, -): ")
+
+if operacion == "+":
+    print(num_1 + num_2)
+if operacion == "-":
+    print(num_1 - num_2)
+
+```
+
+</details>
