@@ -15,7 +15,7 @@ Crea un programa que solicite:
 
 Al finalizar debes de mostrar la información en consola
 
-> [!NOTE]- Pistas:
-> - Para pedir al usuario información usamos `input()`, lo vimos en la clase "1.0 1.0_Introducción".
+> [!note]- Pistas:
+> - Para pedir al usuario información usamos `input()`, lo vimos en la clase "1.0_Introducción".
 > - Cada tipo de dato se guarda diferente dependiendo si es `int`, `float`, `string`.
-> - Para mostrar información en la consola usamos `print()`.
+> - Para mostrar información en la consola usamos `print()`
