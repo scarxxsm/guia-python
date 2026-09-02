@@ -7,6 +7,8 @@ Intenta evitar el uso de IA, cualquier duda: [Instagram](https://www.instagram.c
 - 🟨 Intermedio
 
 **Dejaré una carpeta con posibles resultados de cada ejercicio**. Tu puedes!!!
+
+
 ---
 
 ### 1.0 - Perfil de usuario 🟩
