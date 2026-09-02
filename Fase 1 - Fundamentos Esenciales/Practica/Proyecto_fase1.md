@@ -3,6 +3,8 @@
 Recomencación: evita el uso de IA, si tienes dudas consulta las carpetas de estudio de la fase o contactame por [instagram](https://www.instagram.com/oscaralexis_sm?igsh=MWhwdnl3c2xpb2JsdQ==)
 
 De igual manera, en esta carpeta encontrarás un archivo "Respuesta_proyecto", en donde estará una manera de resolver el proyecto final, te recomiendo revisarla después de intentarlo por tu cuenta.
+
+
 ---
 **Simulador de cajero**
 
